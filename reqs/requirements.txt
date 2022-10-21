@@ -1,3 +1,0 @@
-astropy==5.1
-numpy==1.21.6
-poliastro==0.17.0

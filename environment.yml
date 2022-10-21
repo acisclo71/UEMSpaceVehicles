@@ -1,0 +1,16 @@
+name: astrodynamics
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pykep
+  - jupyter
+  - pygmo
+  - matplotlib
+  - astropy
+  - scipy
+  - numba
+  - plotly
+  - numpy
+  - poliastro
+prefix: /opt/anaconda3/envs/astrodynamics
